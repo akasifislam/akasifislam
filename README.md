@@ -51,8 +51,8 @@
 <!-- <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
 </a> -->
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=akasifislam" alt="Asif's github stats"/>
+<a href="https://github.com/akasifislam">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=akasifislam&show_icons=true&theme=vision-friendly-dark" alt="Asif's github stats"/>
 </a>
 <!-- <a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
