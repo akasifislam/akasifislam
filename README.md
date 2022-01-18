@@ -29,8 +29,8 @@
 
 
 
-- 🔭 I’m currently working on Laravel and VueJS.
-- 🌱 I’m currently learning more about Inertia and Apinejs.
+- 🔭 I’m currently working on Laravel,VueJS and NuxtJS .
+- 🌱 I’m currently learning more about AWS.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter or any tech related stuff.
