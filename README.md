@@ -30,7 +30,7 @@
 
 
 - 🔭 I’m currently working on Laravel,VueJS and NuxtJS .
-- 🌱 I’m currently learning more about AWS.
+- 🌱 I’m currently learning more about Docker.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter or any tech related stuff.
@@ -52,7 +52,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
 </a> -->
 <a href="https://github.com/akasifislam">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=akasifislam&show_icons=true&theme=vision-friendly-dark" alt="Asif's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=akasifislam&show_icons=true&theme=vision-friendly-light" alt="Asif's github stats"/>
 </a>
 <!-- <a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
