@@ -29,9 +29,9 @@
 
 
 
-- 🔭 I’m currently working on Laravel,VueJS and NuxtJS .
-- 🌱 I’m currently learning more about Docker.
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Laravel,VueJS and NuxtJS.
+- 🌱 I’m currently learning Digital Ocean Cloud
+- 👯 I’m looking to collaborate on onesnzeros
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @akasifislam](https://twitter.com/akasifislam) 
