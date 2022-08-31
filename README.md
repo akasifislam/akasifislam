@@ -1,4 +1,6 @@
-## Hi there, I'm [Asif Ul Islam!](https://asifislam.) 👋
+## Hi there 👋  I am Asif-Ul-Islam, Nice to meet you!
+
+> I am a Full-stack Web Developer. I love workign with Laravel & Vuejs, apart from this I work with JavaScript, Vue.js, Nuxt.js, Laravel, REST API, MySQL Git & Github. You can see what I am currently up to on [OnesnZeros](https://onesnzeros.com).
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akasifislam&label=Views&color=blue&style=plastic" alt="akasifislam" /> </p>
 
