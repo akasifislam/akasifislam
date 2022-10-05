@@ -32,7 +32,7 @@
 
 
 - 🔭 I’m currently working on Laravel,VueJS and NuxtJS.
-- 🌱 I’m currently learning Digital Ocean Cloud
+- 🌱 I’m currently learning Pinia
 - 👯 I’m looking to collaborate on onesnzeros
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter or any tech related stuff.
