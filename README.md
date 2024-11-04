@@ -31,9 +31,9 @@
 
 
 
-- 🔭 I’m currently working on Laravel,VueJS and NuxtJS.
-- 🌱 I’m currently learning Pinia
-- 👯 I’m looking to collaborate on onesnzeros
+- 🔭 I’m currently working on Laravel | Vuejs | NUxt | Inertia | DigitalOcean | GCP
+- 🌱 I’m currently learning Reactjs
+- 👯 I’m looking to collaborate on onesnzeros and devsvally
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @akasifislam](https://twitter.com/akasifislam) 
