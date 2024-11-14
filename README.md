@@ -32,7 +32,7 @@
 
 
 - 🔭 I’m currently working on Laravel | Vuejs | NUxt | Inertia | DigitalOcean | GCP
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs & Nextjs
 - 👯 I’m looking to collaborate on onesnzeros and devsvally
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter or any tech related stuff.
